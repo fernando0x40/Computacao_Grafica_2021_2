@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+TAMANHO_JANELA	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/spline.cpp	/^#define TAMANHO_JANELA /;"	macro	line:5	file:
+size	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/spline.cpp	/^float size = 5.0;$/;"	variable	line:7
+ctrlpoints	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/spline.cpp	/^GLfloat ctrlpoints[4][3] = {$/;"	variable	line:10
+init	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/spline.cpp	/^void init(void)$/;"	function	line:14	signature:(void)
+display	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/spline.cpp	/^void display(void)$/;"	function	line:29	signature:(void)
+reshape	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/spline.cpp	/^void reshape(int w, int h)$/;"	function	line:56	signature:(int w, int h)
+main	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/spline.cpp	/^int main(int argc, char** argv)$/;"	function	line:78	signature:(int argc, char** argv)
+TAMANHO_JANELA	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/quadrado.cpp	/^#define TAMANHO_JANELA /;"	macro	line:5	file:
+display	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/quadrado.cpp	/^void display(void)$/;"	function	line:7	signature:(void)
+init	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/quadrado.cpp	/^void init (void) $/;"	function	line:26	signature:(void)
+main	/home/fernando/Documentos/2021_2/Computacao_Grafica/Lab1/quadrado.cpp	/^int main(int argc, char** argv)$/;"	function	line:37	signature:(int argc, char** argv)
